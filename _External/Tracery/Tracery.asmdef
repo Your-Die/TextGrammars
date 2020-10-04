@@ -1,0 +1,15 @@
+{
+    "name": "Tracery",
+    "references": [
+        "GUID:9784512c80256c14a8f60f1e45d79c0f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,17 @@
+{
+    "name": "Chinchillada.TextGrammars",
+    "references": [
+        "JSON",
+        "Chinchillada.Foundation.Runtime",
+        "Chinchillada.PCG"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
