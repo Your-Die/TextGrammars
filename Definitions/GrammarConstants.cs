@@ -1,6 +1,6 @@
 namespace Chinchillada.Grammar
 {
-    using Foundation;
+    using Chinchillada;
     using UnityEngine;
 
     [DefaultExecutionOrder(-1)]

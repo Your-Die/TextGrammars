@@ -1,4 +1,4 @@
-﻿using Chinchillada.Foundation;
+﻿using Chinchillada;
 using Sirenix.Serialization;
 using TMPro;
 using UnityEngine;

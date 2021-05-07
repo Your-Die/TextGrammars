@@ -4,7 +4,7 @@ namespace Chinchillada.Grammar
     using System.Collections;
     using System.Collections.Generic;
     using System.Linq;
-    using Chinchillada.Foundation;
+    using Chinchillada;
 
     public class GrammarTreeLayer : IReadOnlyList<IGrammarNode>
     {

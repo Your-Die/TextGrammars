@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Text.RegularExpressions;
-using Chinchillada.Foundation;
+using Chinchillada;
 using Sirenix.OdinInspector.Editor.TypeSearch;
 
 namespace Chinchillada.Grammar

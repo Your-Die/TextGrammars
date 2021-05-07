@@ -1,4 +1,4 @@
-using Chinchillada.Foundation;
+using Chinchillada;
 
 namespace Chinchillada.Thesis.PCG.Grammars.Definitions
 {
